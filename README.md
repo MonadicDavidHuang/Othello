@@ -1,0 +1,10 @@
+# Othello
+Simple Othello.
+
+Sick
+
+
+
+
+
+
