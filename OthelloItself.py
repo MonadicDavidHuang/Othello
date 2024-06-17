@@ -7,6 +7,7 @@ import sys
 baseNum = 10
 
 class Othello:
+    
     def __init__(self):
         # self.gameMap = [['N' for i in range(baseNum)] for j in range (baseNum)]
         self.gameMap = [['.', '.', '.', '.', '.', '.', '.', '.'],
