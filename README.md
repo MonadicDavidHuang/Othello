@@ -1,4 +1,6 @@
 # Othello
 Simple Othello.
 
+FUck
+
 
