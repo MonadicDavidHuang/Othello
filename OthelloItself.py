@@ -4,7 +4,7 @@ from itertools import chain
 
 import sys
 
-baseNum = 8
+baseNum = 10
 
 class Othello:
     def __init__(self):
