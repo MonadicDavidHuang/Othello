@@ -1,6 +1,5 @@
 # Othello
 Simple Othello.
 
-FUck
-
+Sick
 
