@@ -1,5 +1,1 @@
-# Othello
-Simple Othello.
-
-Sick
-
+af;diu dsiluna;ldiun;liu
