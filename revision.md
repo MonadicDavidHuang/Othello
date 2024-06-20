@@ -1,5 +1,2 @@
-# Othello
-Simple Othello.
-
-Sick
-
+baka: 1
+poko: 1
