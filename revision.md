@@ -1,2 +1,2 @@
-baka: 1
+baka: 2
 poko: 1
